@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "unclear",
+  "base_artist": "Imy",
+  "createdAt": "2026-03-05T06:44:55.010535Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Unclear",
+      "artist": "Kodaline",
+      "has_synced": true,
+      "path": "select/01_Unclear_Kodaline.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Unclear",
+      "artist": "The Jon Spencer Blues Explosion",
+      "has_synced": true,
+      "path": "select/02_Unclear_The_Jon_Spencer_Blues_Explosion.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "When the Path is Unclear",
+      "artist": "Vile Creature",
+      "has_synced": false,
+      "path": "select/03_When_the_Path_is_Unclear_Vile_Creature.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "So Unclear",
+      "artist": "The Jost",
+      "has_synced": true,
+      "path": "select/04_So_Unclear_The_Jost.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Unclear",
+      "artist": "Kodaline",
+      "has_synced": true,
+      "path": "select/05_Unclear_Kodaline.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Unclear - Live",
+      "artist": "Kodaline",
+      "has_synced": true,
+      "path": "select/06_Unclear_-_Live_Kodaline.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Unclear State of Mind",
+      "artist": "Lock & Key",
+      "has_synced": true,
+      "path": "select/07_Unclear_State_of_Mind_Lock_&_Key.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Unclear (feat. Stephen Garrigan, Mark Prendergast, Vincent May, Jason Boland, Stephen Harris)",
+      "artist": "Kodaline",
+      "has_synced": true,
+      "path": "select/08_Unclear_(feat._Stephen_Garrigan,_Mark_Prendergast,_Vincent_May,_Jason_Boland,_St_Kodaline.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sharply Unclear",
+      "artist": "Peter Hammill",
+      "has_synced": false,
+      "path": "select/09_Sharply_Unclear_Peter_Hammill.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Unclear",
+      "artist": "M2U",
+      "has_synced": true,
+      "path": "select/10_Unclear_M2U.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Unclear",
+      "artist": "Victoria Canal",
+      "has_synced": true,
+      "path": "select/11_Unclear_Victoria_Canal.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "unclear -Rebirth- (feat. 棗いつき)",
+      "artist": "Imy",
+      "has_synced": false,
+      "path": "select/pl_01_unclear_-Rebirth-_(feat._棗いつき)_Imy.txt"
+    }
+  ]
+}
